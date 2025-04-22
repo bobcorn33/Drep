@@ -72,6 +72,11 @@
         "@type": "Link",
         "label": "X",
         "uri": "https://x.com/bobcorn_ada"
+      },
+      {
+        "@type": "Identity",
+        "label": "DRep ID",
+        "uri": "https://github.com/bobcorn33/Drep.git"
       }
     ]
   }
